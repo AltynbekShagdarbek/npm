@@ -1,0 +1,19 @@
+{
+  "name": "npm_example_test_sk",
+  "version": "1.0.0",
+  "description": "js methods",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AltynbekShagdarbek/npm.git"
+  },
+  "author": "Altynbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AltynbekShagdarbek/npm/issues"
+  },
+  "homepage": "https://github.com/AltynbekShagdarbek/npm#readme"
+}
