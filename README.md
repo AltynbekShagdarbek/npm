@@ -1,0 +1,1 @@
+npm i npm_example_test_sk
